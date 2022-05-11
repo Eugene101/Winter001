@@ -15,6 +15,7 @@ public static class PauseMenu
     public static void ResumeGame()
     {
         Time.timeScale = 1;
+        var i = 0;
   
     }
 }
